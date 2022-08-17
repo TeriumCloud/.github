@@ -1,6 +1,9 @@
-![TimeNation-Header](https://user-images.githubusercontent.com/71549276/179411250-4e0f9c47-e9e5-4342-9e9e-15a8178d6728.png)
+## Terium(Services)
+Terium is a open-source cloud based on a networking called [Thunder](https://github.com/Lystx/Thunder). Terium has forked & optimized Thunder and used it for Terium.
+  	
+## Information
+[![Version](https://img.shields.io/badge/Terium%20Version-v1.0--SNAPSHOT%20(NOT%20RELEASED)-blue?style=for-the-badge&logo=appveyor)](https://twitter.com/@teriumservice)
 
-## TimeNation Netzwerk
+[![Discord](https://img.shields.io/badge/Discord%20Server-JOIN%20NOW-%237289da?style=for-the-badge&logo=discord)](https://discord.com/invite/5VrY59sffQ)
 
 [![Twitter](https://img.shields.io/twitter/follow/teriumservice?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/@teriumservice)
-[![Version](https://img.shields.io/badge/Terium%20Version-V1.0--SNAPSHOT-informational?style=for-the-badge&logo=appveyor)](https://terium.cloud)
