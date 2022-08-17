@@ -3,4 +3,4 @@
 ## TimeNation Netzwerk
 
 [![Twitter](https://img.shields.io/twitter/follow/teriumservice?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/@teriumservice)
-[![Version](https://img.shields.io/badge/Terium%20Version-V1.0--SNAPSHOT-(DON'T RELEASED)-informational?style=for-the-badge&logo=appveyor)](https://timenation.net)
+[![Version](https://img.shields.io/badge/Terium%20Version-V1.0--SNAPSHOT-(DON-'T-RELEASED)-informational?style=for-the-badge&logo=appveyor)](https://terium.cloud)
