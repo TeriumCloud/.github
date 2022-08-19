@@ -1,5 +1,5 @@
 ## Terium(Services)
-Terium is a open-source cloud based on a networking called [Thunder](https://github.com/Lystx/Thunder). Terium has forked & optimized Thunder and used it for Terium.
+Terium is comming soon.
   	
 ## Information
 [![Version](https://img.shields.io/badge/Terium%20Version-v1.0--SNAPSHOT%20(NOT%20RELEASED)-blue?style=for-the-badge&logo=appveyor)](https://terium.cloud)
