@@ -1,5 +1,5 @@
 [![Banner](https://i.imgur.com/YGVJEqu.png)](https://terium.cloud)
-## Terium(Services)
+## Terium(Service)
 Terium is comming soon.
   	
 ## Information
