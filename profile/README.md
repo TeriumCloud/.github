@@ -7,4 +7,4 @@ TeriumService is comming soon.
 
 [![Discord](https://img.shields.io/badge/Discord%20Server-JOIN%20NOW-%237289da?style=for-the-badge&logo=discord)](https://discord.com/invite/5VrY59sffQ)
 
-[![Twitter](https://img.shields.io/twitter/follow/teriumservice?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/@teriumservice)
+[![Twitter](https://img.shields.io/twitter/follow/teriumcloud?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/@teriumcloud)
