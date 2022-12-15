@@ -1,6 +1,6 @@
-[![Banner](https://i.imgur.com/YGVJEqu.png)](https://terium.cloud)
-## TeriumService
-TeriumService is coming soon.
+[![Banner](https://i.imgur.com/xypsvWn.png)](https://terium.cloud)
+## TeriumCloud
+TeriumCloud is coming soon.
   	
 ## Information
 [![Version](https://img.shields.io/badge/Terium%20Cloud%20Version-v1.0--SNAPSHOT%20(NOT%20RELEASED)-blue?style=for-the-badge&logo=appveyor)](https://terium.cloud)
